@@ -1,1 +1,3 @@
-# LightSpace_NFT_MarketPlace
+# LightSpace_NFT_MarketPlace    
+
+NFT marketplace based on ethereum blockchain 
